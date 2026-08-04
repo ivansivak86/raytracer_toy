@@ -1,0 +1,24 @@
+{
+  "name": "my-render-resurrected",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "node scripts/check-syntax.mjs && node --test",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "three": "0.185.1",
+    "98.css": "0.1.21"
+  },
+  "devDependencies": {
+    "vite": "8.1.5"
+  },
+  "description": "A Delphi/GLScene CPU ray tracer resurrected as a Windows 98-style Vite and Three.js scene editor with functional menus, compact DCC tools, and ray-analysis dialogs.",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  }
+}
