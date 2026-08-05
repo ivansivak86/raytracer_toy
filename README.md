@@ -8,7 +8,7 @@ The original scene, Pascal implementation, Delphi form definition, project files
 
 ## Try it online
 
-[Launch My Old Raytracer Toy](https://ivansivak.com/projects/raytracer)
+[Online Demo](https://ivansivak.com/projects/raytracer): https://ivansivak.com/projects/raytracer
 
 ![Windows 98 workstation interface](docs/ui-preview.png)
 
