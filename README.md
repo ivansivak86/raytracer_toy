@@ -6,6 +6,10 @@ The application now deliberately looks like a small Windows 98-era graphics util
 
 The original scene, Pascal implementation, Delphi form definition, project files, and bundled `.3ds` models remain part of the repository.
 
+## Try it online
+
+[Launch My Old Raytracer Toy](https://ivansivak.com/projects/raytracer)
+
 ![Windows 98 workstation interface](docs/ui-preview.png)
 
 ![Material and render-analysis dialogs](docs/dialogs-preview.png)
